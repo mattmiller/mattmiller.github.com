@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Get Hired as a Newgrad or Junior developer"
+title: "How to Get Hired as a Newgrad or Junior Developer"
 description: ""
 category: 
 tags: [interview cscareeradvice]
