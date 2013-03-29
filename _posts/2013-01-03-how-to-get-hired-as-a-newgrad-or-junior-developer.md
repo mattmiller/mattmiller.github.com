@@ -11,7 +11,7 @@ tl;dr: Be confident and control the direction of the interview with a relavent r
 
 # Be Confident
 
-The most common reason I to dismiss a candidate is because he/she lacks confidence. Confidence is not a requirement to be a software developer, but it is very hard to prove that a candidate is smart if the candidate is lacking confidence in the interview. 
+The most common reason I have to dismiss a candidate is because he/she lacks confidence. Confidence is not a requirement to be a software developer, but it is very hard to prove that a candidate is smart if the candidate is lacking confidence in the interview. 
 
 Interviewing is difficult and can be humbling. A lot of people are unable to come out of their shells within 45 minutes of meeting someone in an interview environment. Very often I attempt to interview candidates who are shy and difficult to converse with. If no dialogue emerges quickly the interview will degrade into a series of fizz/buzz like programming questions. These are usually difficult (especially for a newgrad/junior dev) and getting a question wrong further erodes the candidates confidence.
 
