@@ -17,7 +17,7 @@ The obvious use case for this macro is unit tests. with-redefs is a frictionless
 See how they mock out http/post to return a constant response.
 </p>
 
-<script src="https://gist.github.com/mattmiller/5279712.js" />
+<script src="https://gist.github.com/mattmiller/5279712.js"> </script>
 
 <p>
 with-redefs is also invalueble for debugging. For example: I recently had trouble issueing map 
@@ -26,13 +26,13 @@ with-redefs is also invalueble for debugging. For example: I recently had troubl
 if the issues were caused by my improper use of the API.    
 </p>
 
-<script src="https://gist.github.com/mattmiller/5279871.js"></script>
+<script src="https://gist.github.com/mattmiller/5279871.js"> </script>
 
 <p>
 It would be great if I could see what is being passed to .mapReduce. with-redefs I can.
 </p>
 
-<script src="https://gist.github.com/mattmiller/5279990.js"></script>
+<script src="https://gist.github.com/mattmiller/5279990.js"> </script>
 
 <p>
 Now I can get a print out of what is being passed into .mapReduce before an exception occurs. While debugging I will modify my with-redef to print out the
