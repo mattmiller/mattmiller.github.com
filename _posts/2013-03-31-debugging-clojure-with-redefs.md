@@ -23,7 +23,7 @@ See how they mock out http/post to return a constant response.
 with-redefs is also invaluable for debugging. For example: I recently had trouble issueing 
 <a href="http://docs.basho.com/riak/latest/tutorials/querying/MapReduce/" target="_blank">Riak map reduce jobs</a> from Clojure using the 
 <a href="https://github.com/michaelklishin/welle" target="_blank">Welle client</a>. I am pretty new Riak and Welle so it was hard to tell
-if the issues were caused by my improper use of the API.    
+if the issues were caused by my improper use of the API (shown below).    
 </p>
 
 <script src="https://gist.github.com/mattmiller/5279871.js"> </script>
