@@ -17,7 +17,7 @@ The obvious use case for this macro is unit tests. with-redefs is a frictionless
 See how they mock out http/post to return a constant response.
 </p>
 
-<script src="https://gist.github.com/mattmiller/5279712.js"></script>
+<script src="https://gist.github.com/mattmiller/5279712.js" />
 
 <p>
 with-redefs is also invalueble for debugging. For example: I recently had trouble issueing map 
