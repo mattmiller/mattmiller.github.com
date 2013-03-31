@@ -20,9 +20,9 @@ See how they mock out http/post to return a constant response.
 <script src="https://gist.github.com/mattmiller/5279712.js"> </script>
 
 <p>
-with-redefs is also invalueble for debugging. For example: I recently had trouble issueing map 
-<a href="#" target="_blank">riak reduce jobs</a> from Clojure using the 
-<a href="#" target="_blank">Welle client</a>. I am pretty new Riak and Welle so it was hard to tell
+with-redefs is also invaluable for debugging. For example: I recently had trouble issueing 
+<a href="http://docs.basho.com/riak/latest/tutorials/querying/MapReduce/" target="_blank">Riak map reduce jobs</a> from Clojure using the 
+<a href="https://github.com/michaelklishin/welle" target="_blank">Welle client</a>. I am pretty new Riak and Welle so it was hard to tell
 if the issues were caused by my improper use of the API.    
 </p>
 
