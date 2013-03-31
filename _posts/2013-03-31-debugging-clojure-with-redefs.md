@@ -29,7 +29,7 @@ if the issues were caused by my improper use of the API (shown below).
 <script src="https://gist.github.com/mattmiller/5279871.js"> </script>
 
 <p>
-It would be great if I could see what is being passed to .mapReduce. with-redefs I can.
+It would be great if I could see what is being passed to .mapReduce. With with-redefs I can.
 </p>
 
 <script src="https://gist.github.com/mattmiller/5279990.js"> </script>
