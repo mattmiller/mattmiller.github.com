@@ -16,9 +16,9 @@ See the docs</a>.
 The obvious use case for this macro is unit tests. with-redefs is a frictionless way to mock out dependancies on external components.
 See how they mock out http/post to return a constant response.
 </p>
-<p>
+
 <script src="https://gist.github.com/mattmiller/5279712.js"></script>
-</p>
+
 <p>
 with-redefs is also invalueble for debugging. For example: I recently had trouble issueing map 
 <a href="#" target="_blank">riak reduce jobs</a> from Clojure using the 
