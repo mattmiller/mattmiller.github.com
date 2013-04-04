@@ -28,11 +28,11 @@ it took.
 </p>
 <h2>Enterprise "Pivot"</h2>
 <p>
-Our minor amount of press got us a phone call from one of the larger MLSs. The meeting went well. The MLSs was very interested in our product. We 
+Our minor amount of press got us a phone call from one of the larger MLSs. The meeting went well. The MLS was very interested in our product. We 
 scheduled a followup meeting and we were very excited for our first enterprise sale.
 </p>
 <p>
-We were able get phone calls with 5 other MLSs in the United States and Canada with only cold emails (and name drops to who we were working with).
+We were able get phone calls with 5 other MLSs in the United States and Canada with only cold emails (and name drops of who we were working with).
 3 out of 5 of the initial phone calls wanted a follow up. The other 2 were not a distinct 'no', but they were hesitent to be one of our first customers. 
 </p>
 <h2>Coffee is for Closers</h2>
