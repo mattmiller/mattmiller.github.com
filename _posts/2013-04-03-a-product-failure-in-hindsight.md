@@ -43,7 +43,11 @@ directly to Realtors which seemed more glamorous to us although we never had any
 </p>
 <h2>Lessons Learned</h2>
 <p>
-Our biggest failure was our impatience with the enterprise sales process. We failed to direct the conversation of followup meetings. We failed to make it easy
+Our failure was our impatience with the enterprise sales process. We failed to direct the conversation of followup meetings. We failed to make it easy
 for our advocates inside the enterprise to sell us to their coworkers and bosses. We failed to create a repeatable sales strategy. We expected the customer
 to do all this for us and decided that enterprise customers were flakey and not worth persueing.
+</p>
+<p>
+Our biggest failure was our expectation that an enterprise sale would happen in 1 meeting. We wanted to present our product and collect money. We did not understand
+that an enterprise sale is a slow grind not a snap decision.
 </p>
